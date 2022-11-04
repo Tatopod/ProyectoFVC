@@ -1,0 +1,38 @@
+#nav1{
+    background-color: #e94129;
+    padding: 10px;
+    font-size: large;
+    text-decoration: none;
+    border-radius: .5rem;
+    }
+#nav1 a{
+    color: white;
+    border-radius: .5rem;
+    }
+#nav1 a:hover{
+    color: #e94129;
+    background-color: rgb(255, 218, 218);
+}
+h1{
+    text-align: center;
+}
+
+footer{
+    background-color: #e94129;
+    color: white;
+    padding: 10px;
+    border-radius: .5rem;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0) ;
+    }
+a:hover{
+    color: #e94129;}
+
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 10px;
+    }
+
